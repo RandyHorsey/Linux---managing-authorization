@@ -15,11 +15,11 @@ Using Linux commands to configure authorization. Checking the permissions for al
 
  <h4>
 Checked the file and directory details: </h4>
-<img src="https://imgur.com/JPRf0oY.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/oADayee.png" height="65%" width="70%" alt="Security Audit"/>
 <h4>
 Changed the permissions:  </h4>
-<img src="https://imgur.com/xsnnHvw.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/z082n9H.png" height="65%" width="65%" alt="Security Audit"/>
 <h4>Changed the permissions on a hidden file:  </h4>
-<img src="https://imgur.com/EPohq9j.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/tJ8OZJm.png" height="65%" width="65%" alt="Security Audit"/>
 <h4>Changed directory permissions:  </h4>
-<img src="https://imgur.com/22dxRgd.png" height="65%" width="65%" alt="Security Audit"/>
+<img src="https://imgur.com/ZQxihUG.png" height="65%" width="65%" alt="Security Audit"/>
